@@ -3,9 +3,9 @@
 
 :root {
     --font-size-base: 16px;
-    --primary-color: #45474B;
-    --secondary-color: #F5F7F8;
-    --tertiary-color: #379777;
+    --primary-color: #ffffff;
+    --secondary-color: #0c0101;
+    --tertiary-color: #ffffff;
 
     --border-radius-small: 0.25rem;
     --border-radius-medium: 0.625rem;
